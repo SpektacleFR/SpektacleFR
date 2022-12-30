@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- I'm currently working on WebDeck
+- I'm curretnly learning Flask and JS
+- I make music stuff
+- I make YouTube Tutorials (@SpektacleFR)
+
 <!--
 **SpektacleFR/SpektacleFR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
