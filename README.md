@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - I'm currently working on WebDeck
-- I'm curretnly learning Flask and JS
+- I'm currently learning Flask and JS
 - I make music stuff
 - I make YouTube Tutorials (@SpektacleFR)
 
