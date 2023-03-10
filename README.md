@@ -47,4 +47,4 @@ I'm a front-end developer and 3D artist
 ### :fire: My Stats:
  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SpektacleFR&theme=dark&hide_border=true&border_radius=15&mode=weekly)](https://git.io/streak-stats)
  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SpektacleFR&theme=codeSTACKr&hide_border=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SpektacleFR&show_icons=true&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
