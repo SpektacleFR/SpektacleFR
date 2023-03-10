@@ -41,3 +41,10 @@ I'm a front-end developer and 3D artist
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS"  alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="CSS"  alt="CSS" width="40" height="40"/>&nbsp;
 </div>
+
+---
+
+### :fire: My Stats:
+ [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SpektacleFR&theme=dark&hide_border=true&border_radius=15&mode=weekly)](https://git.io/streak-stats)
+ 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SpektacleFR&theme=codeSTACKr&hide_border=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
