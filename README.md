@@ -7,9 +7,6 @@
     <a href="https://www.artstation.com/spektacle">
       <img src="https://img.shields.io/badge/ArtStation-blue?style=for-the-badge&logo=artstation&logoColor=white" alt="ArtStation Badge"/>
     </a>
-    <a href="https://www.youtube.com/@SpektacleFR">
-      <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-    </a>
     <a href="https://www.reddit.com/u/SpektacleTV/">
       <img src="https://img.shields.io/badge/Reddit-red?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit Badge"/>
     </a>
