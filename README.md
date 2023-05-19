@@ -24,8 +24,8 @@
 I'm a front-end developer and 3D artist
 - :brain: Professional Idiot
 - :seedling: Learning JS/TS with Electron
-- :book: Senior high school student
-- :zap: In my free time I like to code and chat on Discord
+- :book: First-year in College
+- :zap: In my free time I like to code and hang out with friends
 
 ---
 
@@ -36,12 +36,10 @@ I'm a front-end developer and 3D artist
   <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity" alt="Unity" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS"  alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="CSS"  alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash"  alt="#!/bin/sh" width="40" height="40"/>&nbsp;
 </div>
 
 ---
 
 ### :fire: My Stats:
  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SpektacleFR&theme=dark&hide_border=true&border_radius=15&mode=weekly)](https://git.io/streak-stats)
- 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SpektacleFR&show_icons=true&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
