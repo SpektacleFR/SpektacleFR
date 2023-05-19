@@ -1,6 +1,6 @@
 <html>
   <div id="header" align="center">
-    <img src="https://github.com/SpektacleFR/SpektacleFR/blob/main/img/White%20Logo.png" width="100"/>
+    <img src="https://github.com/SpektacleFR/SpektacleFR/blob/main/img/Spektacle%Color.png" width="100"/>
   </div>
 
   <div id="badges" align="center">
