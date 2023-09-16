@@ -23,7 +23,7 @@
 ### :computer: About Me:
 I'm a front-end / game developer and 3D artist
 - :brain: Professional Idiot
-- :man_office_worker: Head of Programming at 3 Man Studios
+- :man_office_worker: Lead Programmer at 3 Man Studios
 - :book: First-year in College
 - :zap: In my free time I like to code and hang out with friends
 
